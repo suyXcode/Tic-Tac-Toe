@@ -89,3 +89,12 @@ Open a pull request
 
 ---
 
+## 👨‍💻 Author
+
+**Suyash Singh**  
+
+🔗 GitHub: [https://github.com/suyXcode](https://github.com/suyXcode)  
+💼 LinkedIn: [https://www.linkedin.com/in/suyxcode/](https://www.linkedin.com/in/suyxcode/)  
+🌐 Portfolio: [https://suyxcode.netlify.app](https://suyxcode.netlify.app)
+
+
