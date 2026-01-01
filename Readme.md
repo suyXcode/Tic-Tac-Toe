@@ -6,7 +6,8 @@ Play the classic two-player game right in your browser! :contentReference[oaicit
 ## 🚀 Demo
 
 ➡️ Try it live: https://suyxcode.github.io/Tic-Tac-Toe/ 
----
+
+
 
 ## 🧩 About the Game
 
